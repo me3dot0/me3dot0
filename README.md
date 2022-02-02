@@ -9,7 +9,7 @@ https://www.youtube.com/channel/UCNCmYZUraP41GBz0C1w2mbw
 https://www.twitch.tv/me3dot0
 - Twitter
 https://www.twitter.com/channel/me3dot0
--Instagram
+- Instagram
 https://www.instagram.com/me3dot0/
 <!---
 onur-adiguzel/onur-adiguzel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
